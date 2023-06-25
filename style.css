@@ -1,0 +1,33 @@
+body {
+    background-color: #06121f;
+    color: white;
+    max-width: 800px;
+    margin: auto;
+    padding-top: 10px;
+    padding-left: 6px;
+    padding-right: 6px;
+    overflow:scroll;
+ 
+}
+
+img {
+    border: 3px solid;
+    border-radius: 10px;
+    border-color: white;
+    max-width: 100%;
+    height: auto;
+
+}
+
+div {
+    margin-bottom: 7px;
+}
+
+button {
+    background-color: white;
+    color: #06121f;
+    width: 200px;
+    font-family: sans-serif;
+    font-size: larger;
+    border-radius: 6px;
+}
